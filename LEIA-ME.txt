@@ -10,8 +10,7 @@ Arquivos incluídos:
 - assets/ (estilos e cálculos empacotados)
 - ícones (icon.svg, pwa-192x192.png, pwa-512x512.png...)
 
-COMO USAR NO GITHUB PAGES:
-1. Crie um repositório no GitHub (ou limpe o atual).
-2. Arraste todos estes arquivos diretamente para a RAIZ do repositório.
-3. Em Settings > Pages, mantenha "Deploy from a branch", branch "main", pasta "/ (root)".
-4. Salve e seu site estará no ar na mesma hora!
+COMO USAR:
+1. Arraste todos estes arquivos diretamente para a RAIZ do repositório.
+2. Em Settings > Pages, mantenha "Deploy from a branch", branch "main", pasta "/ (root)".
+3. Salve e o site abrirá imediatamente!
